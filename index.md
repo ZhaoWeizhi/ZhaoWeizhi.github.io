@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# 赵为之的个人主页
 
-You can use the [editor on GitHub](https://github.com/ZhaoWeizhi/ZhaoWeizhi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+赵为之：华中科技大学 人工智能与自动化学院
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 个人项目
 
-### Markdown
+[大一下学期暑假（2022）参加的实验室培训，包括猫狗二分类（densenet）和皮肤病灶分割（unet）](https://github.com/ZhaoWeizhi/Undergraduate-students-enter-the-laboratory-VLR-training)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[大一下学期（2022）C语言课程设计项目，获得华中科技大学人工智能与自动化学院C语言课程设计特等奖](https://github.com/ZhaoWeizhi/Intelligent-traffic-simulation-based-on-BC31)
 
-```markdown
-Syntax highlighted code block
+[高二（2019）时研究性学习做的项目](https://github.com/ZhaoWeizhi/Research-on-Inverted-Pendulum-Reinforcement-Learning-Algorithm)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhaoWeizhi/ZhaoWeizhi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[这是我高二（2019）的时候做的项目](https://github.com/ZhaoWeizhi/Design-and-Practice-of-Image-Translation-Based-on-Recurrent-Adversarial-Neural-Networks)
